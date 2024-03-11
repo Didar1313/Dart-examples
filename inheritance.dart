@@ -4,8 +4,8 @@ void main(){
   print(vehicle.isEngineWorking);
 
   Vehicle car=Car();
-  /* print(car.noOfWheels), it shows error cause
-     we create a object of Car class which is contains 
+  /* print(car.noOfWheels), it shows an error cause
+     we create an object of Car class which is contains 
      Vehicle class but if we want to access the 
      value of Car class we must be follow the
      below way.. */
